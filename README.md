@@ -38,6 +38,12 @@ Comparación de la distribución del tamaño de partículas entre conjunto de en
 
 Análisis de la suma total de concentraciones para identificar valores físicamente imposibles.
 
+
+![Main Metrics](readme_images/metal_concentration.png)
+
+
+![Main Metrics](readme_images/metal_concentration_detailed.png)
+
 3. Modelado predictivo
 Definición de la métrica personalizada sMAPE.
 
